@@ -83,3 +83,13 @@ data-warehouse-project/
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+## 👨‍💻 About Me
+
+Hi there! I'm currently a 3rd-year Bachelor of Computer Applications (BCA) student at DAVV University. I'm passionate about diving deep into computer science concepts, with a strong foundational interest in Database Management Systems (DBMS), Java, PHP, and Data Communications and Networking (DCN). 
+
+Building this **Data Warehouse and Analytics Project** has been a great way for me to apply my database knowledge to real-world ETL pipelines, data modeling, and modern analytical architecture. I'm always eager to learn new tech stacks and build solutions that turn raw data into meaningful insights.
+
+**Let's Connect!**
+* 💼 [LinkedIn]https://www.linkedin.com/feed/
+* 📫 [Email]w09vai@gmail.com
